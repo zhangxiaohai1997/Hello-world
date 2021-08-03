@@ -1,2 +1,2 @@
 # Hello-world
-learning django
+learning django by zhangzihao.
